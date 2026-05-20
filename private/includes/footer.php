@@ -1,4 +1,4 @@
 <!-- Bootstrap JS and custom JS -->
- <script src="assets/bootstrap/bootstrap.bundle.min.js"></script>
+ <script src="/Ficha%2008/private/assets/bootstrap/bootstrap.bundle.min.js"></script>
 </body>
 </html>
